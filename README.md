@@ -11,3 +11,9 @@ Biểu đồ và kết quả đánh giá quá trình train mô hình:
 
 <img width="241" height="200" alt="image" src="https://github.com/user-attachments/assets/fcf5c3da-620f-4349-875f-fd1eac9553a7" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcf5c3da-620f-4349-875f-fd1eac9553a7" 
+       alt="Kết quả train mô hình" 
+       width="600" 
+       height="498" />
+</p>
